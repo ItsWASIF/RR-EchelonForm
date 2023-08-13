@@ -1,3 +1,5 @@
+print("hello world!")
+
 n=int(input("Enter number of rows:"))
 m=int(input("Enter number of columns:"))
 f=open("mathinput.py")
